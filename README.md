@@ -1,5 +1,5 @@
 # To-Do List Web App 
-
+   
 A simple and interactive To-Do List web application built to practice frontend development concepts.
 
 ## Overview
